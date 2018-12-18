@@ -29,7 +29,7 @@ export class LeFlowSider extends Component {
           <Menu theme="dark" defaultSelectedKeys={['1']} mode="inline">
             <Menu.Item key="1">
               <Icon type="pie-chart" />
-              <span>页面1</span><Link to='/pages/content1'></Link >
+              <span>流水线</span><Link to='/pages/pipeline'></Link >
             </Menu.Item>
             <Menu.Item key="2">
               <Icon type="desktop" />
